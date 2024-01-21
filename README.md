@@ -9,7 +9,7 @@
 
 <p align=center>- I am currently working on 3D interactive websites using Webflow+Spline. </p>
 
-<p align=center>- 👨‍💻 All of my projects are available: <a href="https://abdullahshafiq-portfolio.netlify.app/"><img src="sources/emoji.png" width=20px height=20px align=center /></a></p>
+<p align=center>- 👨‍💻 All of my projects are available: <a href="https://abdullahshafiq.online/"><img src="sources/emoji.png" width=20px height=20px align=center /></a></p>
 
 <p align=center>- 💬 Ask me about <b>Myself</b></p>
 

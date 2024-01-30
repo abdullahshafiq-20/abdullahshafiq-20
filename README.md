@@ -1,5 +1,5 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabdullahshafiq-20%2Fabdullahshafiq-20&label=Visitors&labelColor=%23545a61&countColor=%23bef9c6&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fabdullahshafiq-20%2Fabdullahshafiq-20)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f31400c3-bbbf-4d81-88ad-6bb6942b8fcf/deploy-status)](https://app.netlify.com/sites/abdullahro/deploys)
+
 ![link](https://github.com/abdullahshafiq-20/abdullahshafiq-20/blob/main/sources/banner.gif)
 
 

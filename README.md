@@ -4,7 +4,7 @@
 
 
 <br> <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=46&duration=4000&pause=1000&color=02AB9E&center=true&vCenter=true&width=1100&lines=Hey%2C+Folks!;I+am+%22Abdullah+Shafiq%22;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=46&duration=4000&pause=1000&color=02AB9E&center=true&vCenter=true&width=1100&lines=Hey%2C+Folks!;I+am+Abdullah+Shafiq;Nice+to+meet+you!)](https://git.io/typing-svg)
 <br><br>
 
 <p align=center>- I am currently working on 3D interactive websites using Webflow+Spline. </p>

@@ -7,9 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=46&duration=4000&pause=1000&color=02AB9E&center=true&vCenter=true&width=1100&lines=Hey%2C+Folks!;I+am+Abdullah+Shafiq;Nice+to+meet+you!)](https://git.io/typing-svg)
 <br><br>
 
-<p align=center>- I am currently working on 3D interactive websites using Webflow+Spline. </p>
+<p align=center>- I am currently working on a project called "viewCracker" which would crack interview for you!. </p>
 
-<p align=center>- 👨‍💻 All of my projects are available: <a href="https://abdullahshafiq.online/"><img src="sources/emoji.png" width=20px height=20px align=center /></a></p>
+<p align=center>- 👨‍💻 All of my projects are available: <a href="https://abdullahshafiq.tech/"><img src="https://res.cloudinary.com/dkb1rdtmv/image/upload/v1725112038/logo_buw83l.png" width=20px height=20px align=center /></a></p>
 
 <p align=center>- 💬 Ask me about <b>Myself</b></p>
 
@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/abdullah-shafiq-158073234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-shafiq-158073234" height="30" width="40" /></a>
 <a href="https://fb.com/abdullah.shafiq.370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.shafiq.370" height="30" width="40" /></a>
 <a href="https://instagram.com/abdullahshafiq_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullahshafiq_20" height="30" width="40" /></a>
-<a href="https://abdullahshafiq-portfolio.netlify.app/" target="blank"><img align="center" src="sources/emoji.png" alt="abdullah-shafiq-158073234" height="35" width="35" /></a>
+<a href="https://abdullahshafiq.tech/" target="blank"><img align="center" src="https://res.cloudinary.com/dkb1rdtmv/image/upload/v1725112038/logo_buw83l.png" alt="abdullah-shafiq-158073234" height="35" width="35" /></a>
 <a href="https://medium.com/@as053266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@as053266" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/as053266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="as053266" height="30" width="40" /></a>
 </p>
